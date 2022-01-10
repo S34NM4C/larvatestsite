@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xFA89957e65628AC68993A091Ec64aE99cC7fE7a6",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xfa89957e65628ac68993a091ec64ae99cc7fe7a6",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "larva mfers",
+  "SYMBOL": "LM-01",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 2500000000000000,
+  "DISPLAY_COST": 0.0025,
+  "GAS_LIMIT": 225000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/larva-mfers",
+  "SHOW_BACKGROUND": true
+}
